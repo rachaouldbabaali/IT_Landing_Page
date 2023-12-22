@@ -1,0 +1,50 @@
+.mobile-menu-logo-img {
+  width: 150px
+}
+.icon-img {
+  width: 70px
+}
+.user-logo-img {
+  width: 20px;
+  height: 20px;
+  background-color: #fff
+}
+
+.background-gradient {
+  background: linear-gradient(135deg,#000, #181455,#229f88, #00ebbf);
+}
+
+.bg-2 {
+  background-image: url(../images/Artboard.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.news-bg {
+  background-image: url(../images/news.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.news2-bg {
+  background-image: url(../images/news2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.news3-bg {
+  background-image: url(../images/news3.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.news4-bg {
+  background-image: url(../images/news4.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
